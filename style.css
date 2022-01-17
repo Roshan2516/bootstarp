@@ -79,3 +79,50 @@ body{
 .gaming h1{
     text-align: center;
 }
+.gaming h1{
+    text-align: center;
+}
+.nav-link{
+    color:#127BC3 !important;
+}
+.nav-link:hover{
+    color:whitesmoke !important;
+    background:#127BC3;
+    border-radius: 10px;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.btn{
+    background: #127BC3 !important;
+    color: whitesmoke !important;
+}
+.btn:hover{
+    color: #127BC3 !important;
+    background: whitesmoke !important;
+}
+.description{
+        padding:50px 0;
+}
+.description h1,h4{
+    color:#127BC3;
+}
+.ssd{
+    background: #127BC3;
+    color: whitesmoke;
+    margin:20px 0;
+}
+.ssd h1{
+    text-align: center;
+}
+.g1,.g2 h3{
+    color:#127BC3;
+    text-align: center;
+}
+.killer{
+    background: #127BC3;
+    color:whitesmoke;
+    margin-bottom: 20px;
+}
+.killer h1{
+    text-align: center;
+}
