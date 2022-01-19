@@ -118,3 +118,14 @@ body{
 .killer h1{
     text-align: center;
 }
+.killerwifi{
+    color:#127BC3;
+    background:#E7E7E7;
+}
+.killerwifi img{
+    width:200px;
+}
+.killerwifi p{
+    font-size: 30px;
+    font-weight: bolder;
+}
