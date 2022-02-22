@@ -1,0 +1,42 @@
+body{
+    background:whitesmoke;
+}
+.toparea{
+    background:whitesmoke;
+    padding: 20px 0;
+    
+}
+.toparea img{
+    width:100px;
+}
+.toparea h1{
+    text-align:justify;
+}
+.toparea strong{
+    color: #127BC3;
+}
+.descrip{
+    background-color: #127BC3;
+    padding:20px;
+    color:whitesmoke;
+}
+.descrip img{
+    width:100px;
+}
+.marea{
+    background-color: #00285A;
+    margin: 15px 0;
+    padding: 20px 0;
+}
+.marea h1,p{
+    color:whitesmoke;
+    text-align:center;
+}
+.foot{
+    background:#E7E7E7;
+    padding:50px 0;
+}
+.foot h1{
+    color:#127BC3;
+}
+
